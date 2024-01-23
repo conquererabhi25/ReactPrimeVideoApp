@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.trigger-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 25px;
+}
+.pop-up {
+  cursor: pointer;
+  width: 30vw;
+  height: 30vh;
+}
+.popup-conatainer {
+  cursor: pointer;
+}
+
+.video-player {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #ffffff;
+}
+
+.trigger-button {
+  background-color: transparent;
+  border: #ffffff;
+  margin-bottom: 10px;
+  align-self: flex-end;
+  cursor: pointer;
+}
